@@ -1,0 +1,90 @@
+08:15:30.235 [main] INFO  testCases.TC_Login_002 - Login in Progress
+08:15:32.196 [main] INFO  testCases.TC_Login_002 - Login Successful
+08:15:32.201 [main] INFO  testCases.TC_Login_002 - Proceeding to Logout
+08:15:33.642 [main] INFO  testCases.TC_Login_002 - Logout Successful
+08:15:33.642 [main] INFO  testCases.TC_Login_002 - Continuing to Homepage
+14:51:44.758 [main] INFO  testCases.TC_Login_002 - Login in Progress
+14:51:46.144 [main] INFO  testCases.TC_Login_002 - Login Successful
+14:51:46.157 [main] INFO  testCases.TC_Login_002 - Proceeding to Logout
+14:51:47.020 [main] INFO  testCases.TC_Login_002 - Logout Successful
+14:51:47.027 [main] INFO  testCases.TC_Login_002 - Continuing to Homepage
+14:31:30.868 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login in Progress
+14:32:30.491 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login in Progress
+14:34:18.883 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login in Progress
+14:34:20.988 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login successful
+14:34:20.988 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding Items to Shopping Cart
+14:34:20.988 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iPhone
+14:34:23.323 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iPhone to Shopping Cart
+14:34:25.438 [main] INFO  testCases.TC_SearchandAddToCart_003 - iPhone added to Cart
+14:34:25.438 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iMac
+14:34:27.678 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iMac to Shopping Cart
+14:34:29.758 [main] INFO  testCases.TC_SearchandAddToCart_003 - iMac added to Cart
+14:34:29.758 [main] INFO  testCases.TC_SearchandAddToCart_003 - Proceeding to Shopping Cart
+14:34:29.806 [main] INFO  testCases.TC_SearchandAddToCart_003 - Confirming Items in Shopping Cart
+14:35:38.474 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login in Progress
+14:35:40.526 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login successful
+14:35:40.526 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding Items to Shopping Cart
+14:35:40.526 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iPhone
+14:35:41.468 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iPhone to Shopping Cart
+14:35:43.564 [main] INFO  testCases.TC_SearchandAddToCart_003 - iPhone added to Cart
+14:35:43.564 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iMac
+14:35:44.471 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iMac to Shopping Cart
+14:35:46.557 [main] INFO  testCases.TC_SearchandAddToCart_003 - iMac added to Cart
+14:35:46.557 [main] INFO  testCases.TC_SearchandAddToCart_003 - Proceeding to Shopping Cart
+14:35:46.610 [main] INFO  testCases.TC_SearchandAddToCart_003 - Confirming Items in Shopping Cart
+14:36:21.398 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login in Progress
+14:36:22.935 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login successful
+14:36:22.935 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding Items to Shopping Cart
+14:36:22.935 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iPhone
+14:36:24.012 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iPhone to Shopping Cart
+14:36:26.103 [main] INFO  testCases.TC_SearchandAddToCart_003 - iPhone added to Cart
+14:36:26.103 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iMac
+14:36:27.008 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iMac to Shopping Cart
+14:36:29.094 [main] INFO  testCases.TC_SearchandAddToCart_003 - iMac added to Cart
+14:36:29.094 [main] INFO  testCases.TC_SearchandAddToCart_003 - Proceeding to Shopping Cart
+14:36:29.139 [main] INFO  testCases.TC_SearchandAddToCart_003 - Confirming Items in Shopping Cart
+14:50:38.695 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login in Progress
+14:50:41.115 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login successful
+14:50:41.115 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding Items to Shopping Cart
+14:50:41.115 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iPhone
+14:50:42.266 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iPhone to Shopping Cart
+14:50:44.359 [main] INFO  testCases.TC_SearchandAddToCart_003 - iPhone added to Cart
+14:50:44.359 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iMac
+14:50:45.855 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iMac to Shopping Cart
+14:50:47.918 [main] INFO  testCases.TC_SearchandAddToCart_003 - iMac added to Cart
+14:50:47.928 [main] INFO  testCases.TC_SearchandAddToCart_003 - Proceeding to Shopping Cart
+14:50:49.848 [main] INFO  testCases.TC_SearchandAddToCart_003 - Confirming Items in Shopping Cart
+14:51:05.068 [main] INFO  testCases.TC_SearchandAddToCart_003 - Removing Items from Shopping Cart
+14:51:05.218 [main] INFO  testCases.TC_SearchandAddToCart_003 - Confirming if shopping cart is empty
+14:51:06.531 [main] INFO  testCases.TC_SearchandAddToCart_003 - Shopping Cart is Empty
+14:51:06.532 [main] INFO  testCases.TC_SearchandAddToCart_003 - TC_SearchandAddToCart_003 Successful
+15:44:32.775 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login in Progress
+15:44:35.062 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login successful
+15:44:35.062 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding Items to Shopping Cart
+15:44:35.062 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iPhone
+15:44:36.282 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iPhone to Shopping Cart
+15:44:38.464 [main] INFO  testCases.TC_SearchandAddToCart_003 - iPhone added to Cart
+15:44:38.464 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iMac
+15:44:38.705 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iMac to Shopping Cart
+15:44:40.786 [main] INFO  testCases.TC_SearchandAddToCart_003 - iMac added to Cart
+15:44:40.786 [main] INFO  testCases.TC_SearchandAddToCart_003 - Proceeding to Shopping Cart
+15:44:43.371 [main] INFO  testCases.TC_SearchandAddToCart_003 - Confirming Items in Shopping Cart
+10:30:52.083 [main] INFO  testCases.TC_CheckOut_004 - Login in Progress
+10:30:54.194 [main] INFO  testCases.TC_CheckOut_004 - Login successful
+10:30:54.194 [main] INFO  testCases.TC_CheckOut_004 - Adding Items to Shopping Cart
+10:30:54.194 [main] INFO  testCases.TC_CheckOut_004 - Searching for iPhone
+10:30:55.843 [main] INFO  testCases.TC_CheckOut_004 - Adding iPhone to Shopping Cart
+10:30:55.943 [main] INFO  testCases.TC_CheckOut_004 - Searching for iMac
+10:30:57.163 [main] INFO  testCases.TC_CheckOut_004 - Adding iMac to Shopping Cart
+10:30:57.294 [main] INFO  testCases.TC_CheckOut_004 - Proceeding to Shopping Cart
+10:30:58.876 [main] INFO  testCases.TC_CheckOut_004 - Proceeding to CheckOut
+10:34:08.214 [main] INFO  testCases.TC_CheckOut_004 - Login in Progress
+10:34:10.220 [main] INFO  testCases.TC_CheckOut_004 - Login successful
+10:34:10.220 [main] INFO  testCases.TC_CheckOut_004 - Adding Items to Shopping Cart
+10:34:10.220 [main] INFO  testCases.TC_CheckOut_004 - Searching for iPhone
+10:34:11.502 [main] INFO  testCases.TC_CheckOut_004 - Adding iPhone to Shopping Cart
+10:34:11.593 [main] INFO  testCases.TC_CheckOut_004 - Searching for iMac
+10:34:12.764 [main] INFO  testCases.TC_CheckOut_004 - Adding iMac to Shopping Cart
+10:34:12.893 [main] INFO  testCases.TC_CheckOut_004 - Proceeding to Shopping Cart
+10:34:14.250 [main] INFO  testCases.TC_CheckOut_004 - Proceeding to CheckOut
+10:34:26.813 [main] INFO  testCases.TC_CheckOut_004 - TC_CheckOut_004 successful
