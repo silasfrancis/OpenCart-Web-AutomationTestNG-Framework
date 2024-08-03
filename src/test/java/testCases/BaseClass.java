@@ -85,4 +85,10 @@ public class BaseClass {
         return RandomStringUtils.randomAlphanumeric(count);
     }
 
+    public WebElement expicitWait (By locator)
+    {
+        WebDriverWait mywait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        return mywait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+    }
+
 }

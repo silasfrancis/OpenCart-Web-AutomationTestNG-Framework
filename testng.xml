@@ -18,14 +18,15 @@
 
 
         <classes>
-            <!-- <class name="testCases.TC_Register_001">
+             <class name="testCases.TC_Register_001">
                 <methods>
                     <include name="register"/>
                 </methods>
-            </class> -->
-            <!--<class name="testCases.TC_Login_002"> </class>-->
-            <!-- <class name="testCases.TC_SearchandAddToCart_003"> </class> -->
+            </class>
+            <class name="testCases.TC_Login_002"> </class>
+            <class name="testCases.TC_SearchandAddToCart_003"> </class>
             <class name="testCases.TC_CheckOut_004"> </class>
+            <class name="testCases.TC_PricesDDT_005"> </class>
 
         </classes>
 

@@ -35,7 +35,7 @@ public class TC_SearchandAddToCart_003 extends BaseClass {
         if(add.Confirmation_alert().isDisplayed())
         {
             logger.info("iPhone added to Cart");
-            assert true;
+            Assert.assertTrue(true);
         }
 
 
@@ -48,7 +48,7 @@ public class TC_SearchandAddToCart_003 extends BaseClass {
         if(add.Confirmation_alert().isDisplayed())
         {
             logger.info("iMac added to Cart");
-            assert true;
+            Assert.assertTrue(true);
         }
 
         logger.info("Proceeding to Shopping Cart");
@@ -61,12 +61,12 @@ public class TC_SearchandAddToCart_003 extends BaseClass {
 
         if(iphone_confirm)
         {
-            assert true;
+            Assert.assertTrue(true);
             logger.info("iPhone in Cart");
         }
         if(imac_confirm)
         {
-            assert true;
+            Assert.assertTrue(true);
             logger.info("iMac in Cart");
         }
 

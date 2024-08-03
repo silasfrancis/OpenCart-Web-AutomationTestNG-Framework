@@ -1,5 +1,6 @@
 package testCases;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 import pageObjects.AddToCart;
 import pageObjects.CheckOutPage;
@@ -72,7 +73,7 @@ public class TC_CheckOut_004 extends BaseClass{
 
         if(iPhone_Price && iMac_Price)
         {
-            assert true;
+            Assert.assertTrue(true);
             logger.info("Prices confirmed");
         }
 
@@ -81,7 +82,7 @@ public class TC_CheckOut_004 extends BaseClass{
 
         if(Total)
         {
-            assert true;
+            Assert.assertTrue(true);
             logger.info("Total Price confirmed");
         }
 
