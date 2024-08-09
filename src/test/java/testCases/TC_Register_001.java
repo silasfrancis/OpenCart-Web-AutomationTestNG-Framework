@@ -31,7 +31,7 @@ public class TC_Register_001 extends BaseClass{
         }
         else
         {
-            System.out.println("Account Registration Failed");
+            System.out.println("Account Registration failed");
             Assert.fail();
 
         }
