@@ -55,12 +55,6 @@ public class BaseClass {
         driver.quit();
     }
 
-    public WebElement ExplicitWait(WebElement element)
-    {
-        WebDriverWait mywait = new WebDriverWait(driver, Duration.ofSeconds(10));
-        return mywait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(String.valueOf(element))));
-    }
-
     public void takeScreenshot(WebDriver driver, String methodname) throws IOException
     {
         TakesScreenshot ts = (TakesScreenshot) driver;

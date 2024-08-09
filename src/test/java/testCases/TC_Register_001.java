@@ -7,7 +7,7 @@ import pageObjects.RegisterPage;
 public class TC_Register_001 extends BaseClass{
 
 
-    @Test(groups={"smoke"})
+    @Test(groups={"sanity"})
     public void register() throws InterruptedException {
 
         RegisterPage reg = new RegisterPage(driver);

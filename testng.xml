@@ -12,7 +12,7 @@
 
         <groups>
             <run>
-                <exclude name="smoke"></exclude>
+                <exclude name="sanity"></exclude>
             </run>
         </groups>
 
